@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: my-authorization-server
+  thymeleaf:
+    cache: false
+    mode: HTML
+    encoding: UTF-8
+    suffix: .html
+    prefix: classpath:/templates/
